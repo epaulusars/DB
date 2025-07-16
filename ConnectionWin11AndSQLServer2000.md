@@ -19,5 +19,5 @@ Steps:
 ![Figure 1-1](https://raw.github.com/username/repo/master/images/figure 1-1.png "Figure 1-1")
 
 # NOTES
-It is only for development purposes and not for production use.
+This is intended for development purposes only and should not be used in production. It may pose security risks.
 
